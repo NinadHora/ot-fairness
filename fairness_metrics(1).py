@@ -13,7 +13,7 @@ import csv
 from collections import defaultdict, Counter
 
 MATRIX_PATH = os.path.expanduser("~/ot_faces/output/stats/matrix_country.npz")
-ANNOTATIONS_PATH = "/home/nina.dahora/dataset/casual_conversations_v2/annotations/CasualConversationsV2.json"
+ANNOTATIONS_PATH = "anonymized"
 OUTPUT_DIR = os.path.expanduser("~/ot_faces/output/stats")
 
 
